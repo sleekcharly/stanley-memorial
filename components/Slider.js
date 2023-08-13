@@ -138,6 +138,51 @@ function Slider() {
               className="w-full h-[500px] object-contain"
             />
           </div>
+
+          <div>
+            <img
+              loading="lazy"
+              src="/images/stanley/photo15.jpeg"
+              alt="Stanley Ukasoanya"
+              className="w-full h-[500px] object-contain"
+            />
+          </div>
+
+          <div>
+            <img
+              loading="lazy"
+              src="/images/stanley/photo16.jpeg"
+              alt="Stanley Ukasoanya"
+              className="w-full h-[500px] object-contain"
+            />
+          </div>
+
+          <div>
+            <img
+              loading="lazy"
+              src="/images/stanley/photo17.jpeg"
+              alt="Stanley Ukasoanya"
+              className="w-full h-[500px] object-contain"
+            />
+          </div>
+
+          <div>
+            <img
+              loading="lazy"
+              src="/images/stanley/photo18.jpeg"
+              alt="Stanley Ukasoanya"
+              className="w-full h-[500px] object-contain"
+            />
+          </div>
+
+          <div>
+            <img
+              loading="lazy"
+              src="/images/stanley/photo19.jpeg"
+              alt="Stanley Ukasoanya"
+              className="w-full h-[500px] object-contain"
+            />
+          </div>
         </Carousel>
       </section>
     </div>
