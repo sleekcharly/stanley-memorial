@@ -39,6 +39,105 @@ function Slider() {
               className="w-full h-[500px] object-contain"
             />
           </div>
+
+          <div>
+            <img
+              loading="lazy"
+              src="/images/stanley/photo4.jpeg"
+              alt="Stanley Ukasoanya"
+              className="w-full h-[500px] object-contain"
+            />
+          </div>
+
+          <div>
+            <img
+              loading="lazy"
+              src="/images/stanley/photo5.jpeg"
+              alt="Stanley Ukasoanya"
+              className="w-full h-[500px] object-contain"
+            />
+          </div>
+
+          <div>
+            <img
+              loading="lazy"
+              src="/images/stanley/photo6.jpeg"
+              alt="Stanley Ukasoanya"
+              className="w-full h-[500px] object-contain"
+            />
+          </div>
+
+          <div>
+            <img
+              loading="lazy"
+              src="/images/stanley/photo7.jpeg"
+              alt="Stanley Ukasoanya"
+              className="w-full h-[500px] object-contain"
+            />
+          </div>
+
+          <div>
+            <img
+              loading="lazy"
+              src="/images/stanley/photo8.jpeg"
+              alt="Stanley Ukasoanya"
+              className="w-full h-[500px] object-contain"
+            />
+          </div>
+
+          <div>
+            <img
+              loading="lazy"
+              src="/images/stanley/photo9.jpeg"
+              alt="Stanley Ukasoanya"
+              className="w-full h-[500px] object-contain"
+            />
+          </div>
+
+          <div>
+            <img
+              loading="lazy"
+              src="/images/stanley/photo10.jpeg"
+              alt="Stanley Ukasoanya"
+              className="w-full h-[500px] object-contain"
+            />
+          </div>
+
+          <div>
+            <img
+              loading="lazy"
+              src="/images/stanley/photo11.jpeg"
+              alt="Stanley Ukasoanya"
+              className="w-full h-[500px] object-contain"
+            />
+          </div>
+
+          <div>
+            <img
+              loading="lazy"
+              src="/images/stanley/photo12.jpeg"
+              alt="Stanley Ukasoanya"
+              className="w-full h-[500px] object-contain"
+            />
+          </div>
+
+          <div>
+            <img
+              loading="lazy"
+              src="/images/stanley/photo13.jpeg"
+              alt="Stanley Ukasoanya"
+              className="w-full h-[500px] object-contain"
+            />
+          </div>
+
+          <div>
+            <img
+              loading="lazy"
+              src="/images/stanley/photo14.jpeg"
+              alt="Stanley Ukasoanya"
+              className="w-full h-[500px] object-contain"
+            />
+          </div>
         </Carousel>
       </section>
     </div>
