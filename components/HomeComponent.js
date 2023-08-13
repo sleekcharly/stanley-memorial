@@ -107,7 +107,7 @@ function HomeComponent({ session }) {
             <div className="flex items-center space-x-2 mb-4">
               <ClockIcon className="w-6 h-6 text-gray-600" />
               <p className="text-gray-600 text-xs md:text-base">
-                Starts on Friday, August 18, 2023 at 5p.m. WAT
+                Friday, August 18, 2023 at 5p.m. WAT
               </p>
             </div>
 
@@ -131,7 +131,7 @@ function HomeComponent({ session }) {
             <div className="flex items-center space-x-2 mb-4">
               <ClockIcon className="w-6 h-6 text-gray-600" />
               <p className="text-gray-600 text-xs md:text-base">
-                Starts on Tuesday, August 22, 2023 at 10a.m. WAT
+                Tuesday, August 22, 2023 at 10a.m. WAT
               </p>
             </div>
 
@@ -416,7 +416,7 @@ function HomeComponent({ session }) {
 
           {/* grand children section */}
           <div className="mt-10 border-b border-gray-800 border-opacity-20">
-            <p className="text-gray-600 text-base lg:text-xl">GrandChildren</p>
+            <p className="text-gray-600 text-base lg:text-xl">Moments</p>
             <Slider />
           </div>
         </div>
