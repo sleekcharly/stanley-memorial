@@ -22,55 +22,6 @@ function Slider() {
               className="w-full h-[500px] object-contain"
             />
           </div>
-          <div>
-            <img
-              loading="lazy"
-              src="/images/deeOgbo-family/chesterAndGrandChildren3.jpeg"
-              alt=""
-              className="w-full h-[500px] object-contain"
-            />
-          </div>
-          <div>
-            <img
-              loading="lazy"
-              src="/images/deeOgbo-family/grandChildren3.jpeg"
-              alt=""
-              className="w-full h-[500px] object-contain"
-            />
-          </div>
-          <div>
-            <img
-              loading="lazy"
-              src="/images/deeOgbo-family/grandChildren2.jpeg"
-              alt=""
-              className="w-full h-[500px] object-contain"
-            />
-          </div>
-          <div>
-            <img
-              loading="lazy"
-              src="/images/deeOgbo-family/grandChildren1.jpeg"
-              alt=""
-              className="w-full h-[500px] object-contain"
-            />
-          </div>
-
-          <div>
-            <img
-              loading="lazy"
-              src="/images/deeOgbo-family/chesterAndGrandChildren3.jpeg"
-              alt=""
-              className="w-full h-[500px] object-contain"
-            />
-          </div>
-          <div>
-            <img
-              loading="lazy"
-              src="/images/deeOgbo-family/chesterWorkoutWithGrandChildren2.jpeg"
-              alt=""
-              className="w-full h-[500px] object-contain"
-            />
-          </div>
         </Carousel>
       </section>
     </div>
