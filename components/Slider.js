@@ -17,8 +17,25 @@ function Slider() {
           <div>
             <img
               loading="lazy"
-              src="/images/deeOgbo-family/chesterAndGrandChildren1.jpeg"
-              alt=""
+              src="/images/stanley/photo1.jpeg"
+              alt="Stanley Ukasoanya"
+              className="w-full h-[500px] object-contain"
+            />
+          </div>
+          <div>
+            <img
+              loading="lazy"
+              src="/images/stanley/photo2.jpeg"
+              alt="Stanley Ukasoanya"
+              className="w-full h-[500px] object-contain"
+            />
+          </div>
+
+          <div>
+            <img
+              loading="lazy"
+              src="/images/stanley/photo3.jpeg"
+              alt="Stanley Ukasoanya"
               className="w-full h-[500px] object-contain"
             />
           </div>
