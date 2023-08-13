@@ -371,7 +371,7 @@ function HomeComponent({ session }) {
                 </div>
                 {/* meta */}
                 <span>
-                  <p className="text-base lg:text-xl">Juliet Ukasoanya</p>
+                  <p className="text-base lg:text-xl">Tochi Ukasoanya</p>
                   <p className="text-gray-500">Sister In-law</p>
                 </span>
               </div>
@@ -381,7 +381,7 @@ function HomeComponent({ session }) {
                 <div className="relative w-10 h-10 md:w-12 md:h-12 lg:w-[60px] lg:h-[60px]">
                   <Image
                     src="/images/stanley/agoziem.jpg"
-                    alt="Charles Ukasoanya"
+                    alt="Chiagoziem Ukasoanya"
                     layout="fill"
                     quality="100"
                     className="rounded-full"

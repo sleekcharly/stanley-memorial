@@ -18,7 +18,7 @@ function Slider() {
             <img
               loading="lazy"
               src="/images/deeOgbo-family/chesterAndGrandChildren1.jpeg"
-              alt="Chester Ukandu and Grand children"
+              alt=""
               className="w-full h-[500px] object-contain"
             />
           </div>
