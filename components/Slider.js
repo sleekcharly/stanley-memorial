@@ -210,6 +210,15 @@ function Slider() {
               className="w-full h-[500px] object-contain"
             />
           </div>
+
+          <div>
+            <img
+              loading="lazy"
+              src="/images/stanley/photo23.jpeg"
+              alt="Stanley Ukasoanya"
+              className="w-full h-[500px] object-contain"
+            />
+          </div>
         </Carousel>
       </section>
     </div>
