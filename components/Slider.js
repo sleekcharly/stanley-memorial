@@ -30,7 +30,6 @@ function Slider() {
               className="w-full h-[500px] object-contain"
             />
           </div>
-
           <div>
             <img
               loading="lazy"
@@ -39,7 +38,6 @@ function Slider() {
               className="w-full h-[500px] object-contain"
             />
           </div>
-
           <div>
             <img
               loading="lazy"
@@ -48,7 +46,6 @@ function Slider() {
               className="w-full h-[500px] object-contain"
             />
           </div>
-
           <div>
             <img
               loading="lazy"
@@ -57,7 +54,6 @@ function Slider() {
               className="w-full h-[500px] object-contain"
             />
           </div>
-
           <div>
             <img
               loading="lazy"
@@ -66,7 +62,6 @@ function Slider() {
               className="w-full h-[500px] object-contain"
             />
           </div>
-
           <div>
             <img
               loading="lazy"
@@ -75,7 +70,6 @@ function Slider() {
               className="w-full h-[500px] object-contain"
             />
           </div>
-
           <div>
             <img
               loading="lazy"
@@ -84,7 +78,6 @@ function Slider() {
               className="w-full h-[500px] object-contain"
             />
           </div>
-
           <div>
             <img
               loading="lazy"
@@ -93,7 +86,6 @@ function Slider() {
               className="w-full h-[500px] object-contain"
             />
           </div>
-
           <div>
             <img
               loading="lazy"
@@ -102,7 +94,6 @@ function Slider() {
               className="w-full h-[500px] object-contain"
             />
           </div>
-
           <div>
             <img
               loading="lazy"
@@ -111,7 +102,6 @@ function Slider() {
               className="w-full h-[500px] object-contain"
             />
           </div>
-
           <div>
             <img
               loading="lazy"
@@ -120,7 +110,6 @@ function Slider() {
               className="w-full h-[500px] object-contain"
             />
           </div>
-
           <div>
             <img
               loading="lazy"
@@ -129,7 +118,6 @@ function Slider() {
               className="w-full h-[500px] object-contain"
             />
           </div>
-
           <div>
             <img
               loading="lazy"
@@ -138,7 +126,6 @@ function Slider() {
               className="w-full h-[500px] object-contain"
             />
           </div>
-
           <div>
             <img
               loading="lazy"
@@ -147,7 +134,6 @@ function Slider() {
               className="w-full h-[500px] object-contain"
             />
           </div>
-
           <div>
             <img
               loading="lazy"
@@ -156,7 +142,6 @@ function Slider() {
               className="w-full h-[500px] object-contain"
             />
           </div>
-
           <div>
             <img
               loading="lazy"
@@ -165,7 +150,6 @@ function Slider() {
               className="w-full h-[500px] object-contain"
             />
           </div>
-
           <div>
             <img
               loading="lazy"
@@ -174,7 +158,6 @@ function Slider() {
               className="w-full h-[500px] object-contain"
             />
           </div>
-
           <div>
             <img
               loading="lazy"
@@ -183,7 +166,6 @@ function Slider() {
               className="w-full h-[500px] object-contain"
             />
           </div>
-
           <div>
             <img
               loading="lazy"
@@ -192,7 +174,6 @@ function Slider() {
               className="w-full h-[500px] object-contain"
             />
           </div>
-
           <div>
             <img
               loading="lazy"
@@ -201,7 +182,6 @@ function Slider() {
               className="w-full h-[500px] object-contain"
             />
           </div>
-
           <div>
             <img
               loading="lazy"
@@ -210,11 +190,229 @@ function Slider() {
               className="w-full h-[500px] object-contain"
             />
           </div>
-
           <div>
             <img
               loading="lazy"
               src="/images/stanley/photo23.jpeg"
+              alt="Stanley Ukasoanya"
+              className="w-full h-[500px] object-contain"
+            />
+          </div>
+          <div>
+            <img
+              loading="lazy"
+              src="/images/stanley/photo1.jpg"
+              alt="Stanley Ukasoanya"
+              className="w-full h-[500px] object-contain"
+            />
+          </div>
+          <div>
+            <img
+              loading="lazy"
+              src="/images/stanley/photo2.jpg"
+              alt="Stanley Ukasoanya"
+              className="w-full h-[500px] object-contain"
+            />
+          </div>
+          <div>
+            <img
+              loading="lazy"
+              src="/images/stanley/photo3.jpg"
+              alt="Stanley Ukasoanya"
+              className="w-full h-[500px] object-contain"
+            />
+          </div>
+          <div>
+            <img
+              loading="lazy"
+              src="/images/stanley/photo4.jpg"
+              alt="Stanley Ukasoanya"
+              className="w-full h-[500px] object-contain"
+            />
+          </div>
+          <div>
+            <img
+              loading="lazy"
+              src="/images/stanley/photo5.jpg"
+              alt="Stanley Ukasoanya"
+              className="w-full h-[500px] object-contain"
+            />
+          </div>
+          <div>
+            <img
+              loading="lazy"
+              src="/images/stanley/photo6.jpg"
+              alt="Stanley Ukasoanya"
+              className="w-full h-[500px] object-contain"
+            />
+          </div>
+
+          <div>
+            <img
+              loading="lazy"
+              src="/images/stanley/photo7.jpg"
+              alt="Stanley Ukasoanya"
+              className="w-full h-[500px] object-contain"
+            />
+          </div>
+
+          <div>
+            <img
+              loading="lazy"
+              src="/images/stanley/photo8.jpg"
+              alt="Stanley Ukasoanya"
+              className="w-full h-[500px] object-contain"
+            />
+          </div>
+
+          <div>
+            <img
+              loading="lazy"
+              src="/images/stanley/photo9.jpg"
+              alt="Stanley Ukasoanya"
+              className="w-full h-[500px] object-contain"
+            />
+          </div>
+
+          <div>
+            <img
+              loading="lazy"
+              src="/images/stanley/photo10.jpg"
+              alt="Stanley Ukasoanya"
+              className="w-full h-[500px] object-contain"
+            />
+          </div>
+
+          <div>
+            <img
+              loading="lazy"
+              src="/images/stanley/photo11.jpg"
+              alt="Stanley Ukasoanya"
+              className="w-full h-[500px] object-contain"
+            />
+          </div>
+
+          <div>
+            <img
+              loading="lazy"
+              src="/images/stanley/photo12.jpg"
+              alt="Stanley Ukasoanya"
+              className="w-full h-[500px] object-contain"
+            />
+          </div>
+
+          <div>
+            <img
+              loading="lazy"
+              src="/images/stanley/photo13.jpg"
+              alt="Stanley Ukasoanya"
+              className="w-full h-[500px] object-contain"
+            />
+          </div>
+
+          <div>
+            <img
+              loading="lazy"
+              src="/images/stanley/photo14.jpg"
+              alt="Stanley Ukasoanya"
+              className="w-full h-[500px] object-contain"
+            />
+          </div>
+
+          <div>
+            <img
+              loading="lazy"
+              src="/images/stanley/photo15.jpg"
+              alt="Stanley Ukasoanya"
+              className="w-full h-[500px] object-contain"
+            />
+          </div>
+
+          <div>
+            <img
+              loading="lazy"
+              src="/images/stanley/photo16.jpg"
+              alt="Stanley Ukasoanya"
+              className="w-full h-[500px] object-contain"
+            />
+          </div>
+
+          <div>
+            <img
+              loading="lazy"
+              src="/images/stanley/photo17.jpg"
+              alt="Stanley Ukasoanya"
+              className="w-full h-[500px] object-contain"
+            />
+          </div>
+
+          <div>
+            <img
+              loading="lazy"
+              src="/images/stanley/photo18.jpg"
+              alt="Stanley Ukasoanya"
+              className="w-full h-[500px] object-contain"
+            />
+          </div>
+
+          <div>
+            <img
+              loading="lazy"
+              src="/images/stanley/photo19.jpg"
+              alt="Stanley Ukasoanya"
+              className="w-full h-[500px] object-contain"
+            />
+          </div>
+
+          <div>
+            <img
+              loading="lazy"
+              src="/images/stanley/photo20.jpg"
+              alt="Stanley Ukasoanya"
+              className="w-full h-[500px] object-contain"
+            />
+          </div>
+
+          <div>
+            <img
+              loading="lazy"
+              src="/images/stanley/photo21.jpg"
+              alt="Stanley Ukasoanya"
+              className="w-full h-[500px] object-contain"
+            />
+          </div>
+
+          <div>
+            <img
+              loading="lazy"
+              src="/images/stanley/photo22.jpg"
+              alt="Stanley Ukasoanya"
+              className="w-full h-[500px] object-contain"
+            />
+          </div>
+
+          <div>
+            <img
+              loading="lazy"
+              src="/images/stanley/photo23.jpg"
+              alt="Stanley Ukasoanya"
+              className="w-full h-[500px] object-contain"
+            />
+          </div>
+
+          <div>
+            <img
+              loading="lazy"
+              src="/images/stanley/photo24.jpg"
+              alt="Stanley Ukasoanya"
+              className="w-full h-[500px] object-contain"
+            />
+          </div>
+
+          <div>
+            <img
+              loading="lazy"
+              src="/images/stanley/photo25.jpg"
               alt="Stanley Ukasoanya"
               className="w-full h-[500px] object-contain"
             />
