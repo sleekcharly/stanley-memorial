@@ -201,6 +201,30 @@ function Slider() {
           <div>
             <img
               loading="lazy"
+              src="/images/stanley/photo24.jpeg"
+              alt="Stanley Ukasoanya"
+              className="w-full h-[500px] object-contain"
+            />
+          </div>
+          <div>
+            <img
+              loading="lazy"
+              src="/images/stanley/photo25.jpeg"
+              alt="Stanley Ukasoanya"
+              className="w-full h-[500px] object-contain"
+            />
+          </div>
+          <div>
+            <img
+              loading="lazy"
+              src="/images/stanley/photo26.jpeg"
+              alt="Stanley Ukasoanya"
+              className="w-full h-[500px] object-contain"
+            />
+          </div>
+          <div>
+            <img
+              loading="lazy"
               src="/images/stanley/photo1.jpg"
               alt="Stanley Ukasoanya"
               className="w-full h-[500px] object-contain"
@@ -413,6 +437,367 @@ function Slider() {
             <img
               loading="lazy"
               src="/images/stanley/photo25.jpg"
+              alt="Stanley Ukasoanya"
+              className="w-full h-[500px] object-contain"
+            />
+          </div>
+
+          <div>
+            <img
+              loading="lazy"
+              src="/images/stanley/VRL9.jpg"
+              alt="Stanley Ukasoanya"
+              className="w-full h-[500px] object-contain"
+            />
+          </div>
+
+          <div>
+            <img
+              loading="lazy"
+              src="/images/stanley/VRL10.jpg"
+              alt="Stanley Ukasoanya"
+              className="w-full h-[500px] object-contain"
+            />
+          </div>
+
+          <div>
+            <img
+              loading="lazy"
+              src="/images/stanley/VRL11.jpg"
+              alt="Stanley Ukasoanya"
+              className="w-full h-[500px] object-contain"
+            />
+          </div>
+
+          <div>
+            <img
+              loading="lazy"
+              src="/images/stanley/VRL12.jpg"
+              alt="Stanley Ukasoanya"
+              className="w-full h-[500px] object-contain"
+            />
+          </div>
+
+          <div>
+            <img
+              loading="lazy"
+              src="/images/stanley/VRL13.jpg"
+              alt="Stanley Ukasoanya"
+              className="w-full h-[500px] object-contain"
+            />
+          </div>
+
+          <div>
+            <img
+              loading="lazy"
+              src="/images/stanley/VRL14.jpg"
+              alt="Stanley Ukasoanya"
+              className="w-full h-[500px] object-contain"
+            />
+          </div>
+          <div>
+            <img
+              loading="lazy"
+              src="/images/stanley/VRL15.jpg"
+              alt="Stanley Ukasoanya"
+              className="w-full h-[500px] object-contain"
+            />
+          </div>
+          <div>
+            <img
+              loading="lazy"
+              src="/images/stanley/VRL16.jpg"
+              alt="Stanley Ukasoanya"
+              className="w-full h-[500px] object-contain"
+            />
+          </div>
+
+          <div>
+            <img
+              loading="lazy"
+              src="/images/stanley/VRL17.jpg"
+              alt="Stanley Ukasoanya"
+              className="w-full h-[500px] object-contain"
+            />
+          </div>
+
+          <div>
+            <img
+              loading="lazy"
+              src="/images/stanley/VRL18.jpg"
+              alt="Stanley Ukasoanya"
+              className="w-full h-[500px] object-contain"
+            />
+          </div>
+
+          <div>
+            <img
+              loading="lazy"
+              src="/images/stanley/VRL19.jpg"
+              alt="Stanley Ukasoanya"
+              className="w-full h-[500px] object-contain"
+            />
+          </div>
+          <div>
+            <img
+              loading="lazy"
+              src="/images/stanley/VRL20.jpg"
+              alt="Stanley Ukasoanya"
+              className="w-full h-[500px] object-contain"
+            />
+          </div>
+          <div>
+            <img
+              loading="lazy"
+              src="/images/stanley/VRL21.jpg"
+              alt="Stanley Ukasoanya"
+              className="w-full h-[500px] object-contain"
+            />
+          </div>
+          <div>
+            <img
+              loading="lazy"
+              src="/images/stanley/VRL22.jpg"
+              alt="Stanley Ukasoanya"
+              className="w-full h-[500px] object-contain"
+            />
+          </div>
+          <div>
+            <img
+              loading="lazy"
+              src="/images/stanley/VRL23.jpg"
+              alt="Stanley Ukasoanya"
+              className="w-full h-[500px] object-contain"
+            />
+          </div>
+          <div>
+            <img
+              loading="lazy"
+              src="/images/stanley/VRL24.jpg"
+              alt="Stanley Ukasoanya"
+              className="w-full h-[500px] object-contain"
+            />
+          </div>
+          <div>
+            <img
+              loading="lazy"
+              src="/images/stanley/VRL25.jpg"
+              alt="Stanley Ukasoanya"
+              className="w-full h-[500px] object-contain"
+            />
+          </div>
+          <div>
+            <img
+              loading="lazy"
+              src="/images/stanley/VRL26.jpg"
+              alt="Stanley Ukasoanya"
+              className="w-full h-[500px] object-contain"
+            />
+          </div>
+          <div>
+            <img
+              loading="lazy"
+              src="/images/stanley/VRL27.jpg"
+              alt="Stanley Ukasoanya"
+              className="w-full h-[500px] object-contain"
+            />
+          </div>
+          <div>
+            <img
+              loading="lazy"
+              src="/images/stanley/VRL28.jpg"
+              alt="Stanley Ukasoanya"
+              className="w-full h-[500px] object-contain"
+            />
+          </div>
+          <div>
+            <img
+              loading="lazy"
+              src="/images/stanley/VRL29.jpg"
+              alt="Stanley Ukasoanya"
+              className="w-full h-[500px] object-contain"
+            />
+          </div>
+          <div>
+            <img
+              loading="lazy"
+              src="/images/stanley/VRL30.jpg"
+              alt="Stanley Ukasoanya"
+              className="w-full h-[500px] object-contain"
+            />
+          </div>
+          <div>
+            <img
+              loading="lazy"
+              src="/images/stanley/VRL31.jpg"
+              alt="Stanley Ukasoanya"
+              className="w-full h-[500px] object-contain"
+            />
+          </div>
+          <div>
+            <img
+              loading="lazy"
+              src="/images/stanley/VRL32.jpg"
+              alt="Stanley Ukasoanya"
+              className="w-full h-[500px] object-contain"
+            />
+          </div>
+          <div>
+            <img
+              loading="lazy"
+              src="/images/stanley/VRL33.jpg"
+              alt="Stanley Ukasoanya"
+              className="w-full h-[500px] object-contain"
+            />
+          </div>
+          <div>
+            <img
+              loading="lazy"
+              src="/images/stanley/VRL34.jpg"
+              alt="Stanley Ukasoanya"
+              className="w-full h-[500px] object-contain"
+            />
+          </div>
+          <div>
+            <img
+              loading="lazy"
+              src="/images/stanley/VRL35.jpg"
+              alt="Stanley Ukasoanya"
+              className="w-full h-[500px] object-contain"
+            />
+          </div>
+          <div>
+            <img
+              loading="lazy"
+              src="/images/stanley/VRL36.jpg"
+              alt="Stanley Ukasoanya"
+              className="w-full h-[500px] object-contain"
+            />
+          </div>
+          <div>
+            <img
+              loading="lazy"
+              src="/images/stanley/VRL37.jpg"
+              alt="Stanley Ukasoanya"
+              className="w-full h-[500px] object-contain"
+            />
+          </div>
+          <div>
+            <img
+              loading="lazy"
+              src="/images/stanley/VRL38.jpg"
+              alt="Stanley Ukasoanya"
+              className="w-full h-[500px] object-contain"
+            />
+          </div>
+          <div>
+            <img
+              loading="lazy"
+              src="/images/stanley/VRL39.jpg"
+              alt="Stanley Ukasoanya"
+              className="w-full h-[500px] object-contain"
+            />
+          </div>
+          <div>
+            <img
+              loading="lazy"
+              src="/images/stanley/VRL40.jpg"
+              alt="Stanley Ukasoanya"
+              className="w-full h-[500px] object-contain"
+            />
+          </div>
+          <div>
+            <img
+              loading="lazy"
+              src="/images/stanley/VRL41.jpg"
+              alt="Stanley Ukasoanya"
+              className="w-full h-[500px] object-contain"
+            />
+          </div>
+          <div>
+            <img
+              loading="lazy"
+              src="/images/stanley/VRL42.jpg"
+              alt="Stanley Ukasoanya"
+              className="w-full h-[500px] object-contain"
+            />
+          </div>
+          <div>
+            <img
+              loading="lazy"
+              src="/images/stanley/VRL43.jpg"
+              alt="Stanley Ukasoanya"
+              className="w-full h-[500px] object-contain"
+            />
+          </div>
+          <div>
+            <img
+              loading="lazy"
+              src="/images/stanley/VRL44.jpg"
+              alt="Stanley Ukasoanya"
+              className="w-full h-[500px] object-contain"
+            />
+          </div>
+          <div>
+            <img
+              loading="lazy"
+              src="/images/stanley/VRL45.jpg"
+              alt="Stanley Ukasoanya"
+              className="w-full h-[500px] object-contain"
+            />
+          </div>
+          <div>
+            <img
+              loading="lazy"
+              src="/images/stanley/VRL46.jpg"
+              alt="Stanley Ukasoanya"
+              className="w-full h-[500px] object-contain"
+            />
+          </div>
+          <div>
+            <img
+              loading="lazy"
+              src="/images/stanley/VRL47.jpg"
+              alt="Stanley Ukasoanya"
+              className="w-full h-[500px] object-contain"
+            />
+          </div>
+          <div>
+            <img
+              loading="lazy"
+              src="/images/stanley/VRL48.jpg"
+              alt="Stanley Ukasoanya"
+              className="w-full h-[500px] object-contain"
+            />
+          </div>
+          <div>
+            <img
+              loading="lazy"
+              src="/images/stanley/VRL49.jpg"
+              alt="Stanley Ukasoanya"
+              className="w-full h-[500px] object-contain"
+            />
+          </div>
+          <div>
+            <img
+              loading="lazy"
+              src="/images/stanley/VRL50.jpg"
+              alt="Stanley Ukasoanya"
+              className="w-full h-[500px] object-contain"
+            />
+          </div>
+          <div>
+            <img
+              loading="lazy"
+              src="/images/stanley/VRL51.jpg"
+              alt="Stanley Ukasoanya"
+              className="w-full h-[500px] object-contain"
+            />
+          </div>
+          <div>
+            <img
+              loading="lazy"
+              src="/images/stanley/VRL52.jpg"
               alt="Stanley Ukasoanya"
               className="w-full h-[500px] object-contain"
             />
