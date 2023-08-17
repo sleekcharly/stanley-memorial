@@ -442,7 +442,7 @@ function Slider() {
             />
           </div>
 
-          <div>
+          {/* <div>
             <img
               loading="lazy"
               src="/images/stanley/VRL9.jpg"
@@ -800,8 +800,8 @@ function Slider() {
               src="/images/stanley/VRL52.jpg"
               alt="Stanley Ukasoanya"
               className="w-full h-[500px] object-contain"
-            />
-          </div>
+            /> 
+          </div>*/}
         </Carousel>
       </section>
     </div>
